@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "50pdTHSUTtPf2J1hSjgBblIpEh5AyKgtarXSjuQqxXdTuYl84yZH/X2C5LDYctMUrvZxGc1Vty6OeYSalxNHHQ==",
+  "dgSpecHash": "Cimf5OWIA1oSYHASmCNFexoGp1Ni0u33VfKgPWBguSQDIky1549JQTglANdX21gN2YWlMcU7DnPFegRv0nc/0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\alleh\\GitHub\\DatumApi\\DatumApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alleh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\alleh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\alleh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\alleh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

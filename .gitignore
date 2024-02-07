@@ -1,0 +1,62 @@
+# Binära filer och byggresultat
+bin/
+obj/
+
+# Visual Studio-specifika filer och mappar
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Resurser som skapas av Visual Studio
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.jfm
+.gpState
+
+# ReSharper-specifika filer
+_ReSharper/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet-paketfiler
+packages/
+*.nupkg
+*.paket.restore.log
+
+# Specifika till användare
+*.ReSharper.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code specifika filer och mappar
+.vscode/
+
+# Kompilerade filer
+*.dll
+*.exe
+
