@@ -23,3 +23,4 @@ C:\Users\alleh\GitHub\DatumApi\obj\Debug\net8.0\refint\DatumApi.dll
 C:\Users\alleh\GitHub\DatumApi\obj\Debug\net8.0\DatumApi.pdb
 C:\Users\alleh\GitHub\DatumApi\obj\Debug\net8.0\DatumApi.genruntimeconfig.cache
 C:\Users\alleh\GitHub\DatumApi\obj\Debug\net8.0\ref\DatumApi.dll
+C:\Users\alleh\GitHub\DatumApi\obj\Debug\net8.0\DatumApi.sourcelink.json
