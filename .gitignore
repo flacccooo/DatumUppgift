@@ -34,10 +34,10 @@ obj/
 *.svclog
 *.scc
 *.jfm
-*.gpState
+.gpState
 
 # ReSharper-specifika filer
-_ReSharper*/
+_ReSharper/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
 
@@ -59,3 +59,4 @@ packages/
 # Kompilerade filer
 *.dll
 *.exe
+
