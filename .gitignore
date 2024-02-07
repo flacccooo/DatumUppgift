@@ -1,0 +1,41 @@
+# Binära filer
+node_modules/
+*.pnp
+.pnp.js
+
+# Byggresultat
+/build/
+
+# Filer som skapas av utvecklingsverktyg
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Kompilerade Java-filer
+*.class
+
+# Kompilator cache
+*.log
+
+# Maven-specific
+/target/
+
+# IntelliJ-projekt
+.idea/
+
+# VS Code-projekt
+.vscode/
+
+# NuGet packages
+*.nupkg
+
+# Temporära filer
+*.tmp
+
+# Loggfiler
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
